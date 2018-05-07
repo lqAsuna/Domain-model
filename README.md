@@ -7,4 +7,4 @@
 
 ## 研究淘宝退货流程活动图，对退货业务对象状态建模
 
-![image](https://github.com/lqAsuna/Domain-model/blob/master/image/result2.png)
+![image](https://github.com/lqAsuna/Domain-model/blob/master/result2.png)
